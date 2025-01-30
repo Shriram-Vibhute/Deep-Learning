@@ -1,4 +1,4 @@
-# Deep Learning Repository
+# **Deep Learning Repository**
 
 Welcome to the Deep Learning Repository! This repository contains various implementations and theoretical concepts related to deep learning algorithms. Below you'll find detailed descriptions of each section and recent updates. 
 
